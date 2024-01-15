@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f8997a49-c4f8-4d00-ae19-0eaefda6eaa4" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bot_side.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bot_side.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P1_Side.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1_Side.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Players.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -71,7 +76,12 @@
       <workItem from="1702279935485" duration="743000" />
       <workItem from="1702281394126" duration="1437000" />
       <workItem from="1702374462777" duration="59000" />
-      <workItem from="1702458072255" duration="917000" />
+      <workItem from="1702458072255" duration="941000" />
+      <workItem from="1702884092365" duration="1561000" />
+      <workItem from="1704877358549" duration="93000" />
+      <workItem from="1704877644218" duration="3336000" />
+      <workItem from="1705303734661" duration="3408000" />
+      <workItem from="1705307660641" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -97,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702284042099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1702462159709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702462159709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
