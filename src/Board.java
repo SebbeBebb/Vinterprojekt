@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class Board {
     int rows = 10;
     int columns = 10;
