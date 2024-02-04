@@ -1,7 +1,7 @@
 public class Board {
-    int rows = 10;
-    int columns = 10;
-    int[][] board = new int[rows][columns];
+    static int rows = 10;
+    static int columns = 10;
+    public static int[][] board = new int[rows][columns];
 
     public Board() {
         grid();
