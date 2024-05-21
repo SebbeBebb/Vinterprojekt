@@ -7,12 +7,10 @@
     <list default="true" id="f8997a49-c4f8-4d00-ae19-0eaefda6eaa4" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bot_side.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bot_Side.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bot_Side.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bot_Side.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/P1_Side.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1_Side.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Player1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Score.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SebbeBebb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SebbeBebb/Vinterprojekt.git&quot;,
+    &quot;accountId&quot;: &quot;a01a789b-b723-4c38-9e3b-652cb3591cb9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -74,7 +84,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-20.0.2-azul-20.0.2-3183f394aec4-4edb7f01" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -100,7 +111,13 @@
       <workItem from="1705307660641" duration="431000" />
       <workItem from="1705908589726" duration="4239000" />
       <workItem from="1706086820231" duration="3393000" />
-      <workItem from="1707056902137" duration="22843000" />
+      <workItem from="1707056902137" duration="23027000" />
+      <workItem from="1707118485406" duration="2768000" />
+      <workItem from="1707121572725" duration="600000" />
+      <workItem from="1707296051941" duration="2329000" />
+      <workItem from="1708331220140" duration="72000" />
+      <workItem from="1714374429114" duration="107000" />
+      <workItem from="1716290221185" duration="3002000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -150,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705912988505</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <option name="closed" value="true" />
+      <created>1707085291729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707085291729</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
